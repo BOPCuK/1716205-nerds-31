@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Александр Баранников](https://up.htmlacademy.ru/htmlcss/31/user/1716205).
-* Наставник: `Неизвестно`.
+* Наставник: [Вячеслав Николаев] (https://htmlacademy.ru/profile/slavka_piyavka).
 
 ---
 
